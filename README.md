@@ -14,10 +14,9 @@
 
 - Header.tsx
 - Main.tsx
-  - Form.tsx
-  - TodoList.tsx
-  - TodoItem.tsx
-- Footer.tsx
+- Form.tsx
+- TodoList.tsx
+- TodoItem.tsx
 
 ### 공용 컴포넌트
 
